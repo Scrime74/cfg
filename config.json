@@ -6,7 +6,7 @@
         "https://b.prectv38.sbs",
         "https://c.prectv40.sbs",
         "https://m.prectv49.sbs",
-		"https://m.prectv55.lol",
+	"https://m.prectv55.lol",
         "https://m.prectv42.sbs",
         "https://m.prectv39.sbs"
     ],
@@ -15,3 +15,4 @@
     "update_app": "https://github.com/muhammetaliaydin/rectv-windows/releases/latest/download/rectv-windows.exe",
     "version": "1.1"
 }
+
